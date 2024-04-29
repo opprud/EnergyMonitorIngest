@@ -96,6 +96,6 @@ Test OTA with the 'Particle: Cloud Flash' command in Visual Studio Code or the C
 This firmware supports binary assets in OTA packages, allowing the inclusion of audio, images, configurations, and external microcontroller firmware. More details are [here](https://docs.particle.io/reference/device-os/api/asset-ota/asset-ota/).
 
 # Edge impulse Photon 2
-See [Edge Impulse Documentation]([https://docs.edgeimpulse.com/docs/run-inference/running-your-impulse-particle](https://edgeimpulse.readme.io/reference/ingestion-api)) for description of the Ingenstion API.
+See [Edge Impulse Documentation](https://edgeimpulse.readme.io/reference/ingestion-api)) for description of the Ingenstion API.
 
 Particle's webhook configuration allows for building a custom template, including the API key for pushing data into the data acquisition part of an edge impulse project, [see](https://edge-impulse.gitbook.io/docs/tutorials/lifecycle-management/ota-model-updates/ota-model-updates-particle-workbench). 
