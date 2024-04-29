@@ -1,6 +1,6 @@
 # ingestdata
 
-This project is formware for a particle Photon2, intended to run an inference models built using Edge Impulse tools.
+This project is formware for a particle Photon2, intended to rcapture data and feed into an Edge Ipulse project, using the edge impiulse Ingestion API
 
 Projects for [Hardware platform](https://github.com/opprud/EnergyMonitorHardware) and [Data ingestion](https://github.com/opprud/EnergyMonitor_Ingenstion) exists, see separate repositories
 
