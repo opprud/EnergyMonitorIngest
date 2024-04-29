@@ -1,4 +1,4 @@
-# Data ingestion, Energy monitor
+# Data ingestion into Edge Impulse project from the Energy monitor
 
 This project is formware for a particle Photon2, intended to rcapture data and feed into an Edge Ipulse project, using the edge impiulse Ingestion API
 
