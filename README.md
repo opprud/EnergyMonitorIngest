@@ -1,8 +1,10 @@
 # ingestdata
 
-This firmware project was created using [Particle Developer Tools](https://www.particle.io/developer-tools/) and is compatible with all [Particle Devices](https://www.particle.io/devices/).
+This project is formware for a particle Photon2, intended to run an inference models built using Edge Impulse tools.
+Projects for [Hardware platform](https://github.com/opprud/EnergyMonitorHardware) and [Data ingestion](https://github.com/opprud/EnergyMonitor_Ingenstion) exists, see separate repositories
 
-Feel free to replace this README.md file with your own content, or keep it for reference.
+The firmware project was created using [Particle Developer Tools](https://www.particle.io/developer-tools/) and is compatible with all [Particle Devices](https://www.particle.io/devices/).
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,6 +19,7 @@ Feel free to replace this README.md file with your own content, or keep it for r
   - [OTA](#ota)
 - [Support and Feedback](#support-and-feedback)
 - [Version](#version)
+- [Edge Impulse C library](#EI_photon2)
 
 ## Introduction
 
@@ -91,10 +94,5 @@ Test OTA with the 'Particle: Cloud Flash' command in Visual Studio Code or the C
 
 This firmware supports binary assets in OTA packages, allowing the inclusion of audio, images, configurations, and external microcontroller firmware. More details are [here](https://docs.particle.io/reference/device-os/api/asset-ota/asset-ota/).
 
-## Support and Feedback
-
-For support or feedback on this template or any Particle products, please join our [community](https://community.particle.io)!
-
-## Version
-
-Template version 1.0.2
+# EI_photon2
+See [Edge Impulse Documentation](https://docs.edgeimpulse.com/docs/run-inference/running-your-impulse-particle) on how to build a library for the Particle Photon 2
