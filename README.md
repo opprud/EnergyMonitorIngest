@@ -95,7 +95,7 @@ Test OTA with the 'Particle: Cloud Flash' command in Visual Studio Code or the C
 
 This firmware supports binary assets in OTA packages, allowing the inclusion of audio, images, configurations, and external microcontroller firmware. More details are [here](https://docs.particle.io/reference/device-os/api/asset-ota/asset-ota/).
 
-#Edge impulse Photon 2
+# Edge impulse Photon 2
 See [Edge Impulse Documentation](https://docs.edgeimpulse.com/docs/run-inference/running-your-impulse-particle) on how to build a library for the Particle Photon 2.
 
-Also see [Edge Impulse C++ Library documentation](https://docs.edgeimpulse.com/docs/run-inference/cpp-library) for description of the C++ library
+Also see [Edge Impulse C++ Library documentation](https://docs.edgeimpulse.com/docs/run-inference/cpp-library) for description of the C++ library.
