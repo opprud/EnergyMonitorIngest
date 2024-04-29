@@ -20,7 +20,7 @@ The firmware project was created using [Particle Developer Tools](https://www.pa
   - [OTA](#ota)
 - [Support and Feedback](#support-and-feedback)
 - [Version](#version)
-- [Edge impulse Photon 2](#Edge impulse Photon 2)
+- [Edge impulse Photon 2](#Edge-impulse-Photon-2)
 
 ## Introduction
 
